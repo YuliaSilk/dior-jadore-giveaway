@@ -1447,3 +1447,28 @@ textarea.parsley-error {
 .foot-er img{
    width: 50px;  
 }
+
+.header-decor{
+    position:absolute;
+    top: -30px;
+    left: 0;
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+    z-index: -2;
+}
+.decoration{
+    position:absolute;
+    top: 60px;
+    left: 0;
+    width: 50%;
+    height: auto;
+    background-color: transparent;
+    z-index: -1;
+}
+
+.bg-card{
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 18px;
+    padding-top: 20px;
+}
